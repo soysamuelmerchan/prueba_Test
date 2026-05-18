@@ -121,7 +121,7 @@ function guardarModulo1() {
     }
   }
   // ir a siguiente página
-  window.location.href = "personalidad.html";
+  window.location.href = "./personalidad.html";
 }
 
 function guardarModulo2() {
